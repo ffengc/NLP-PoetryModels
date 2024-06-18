@@ -10,6 +10,7 @@ From RNN to GRU and LSTM: A Study on the Performance of Poem Generation Models I
 [📄[Document](https://github.com/ffengc/NLP-PoetryModels/blob/main/README.md)] &emsp; [💻[Platform](https://www.tensorflow.org)] &emsp; <br>
 [🌅[Code](https://github.com/ffengc/NLP-PoetryModels/)] &emsp; [📖[Article(comming soon)](https://github.com/ffengc/NLP-PoetryModels/docs/article.pdf)] &emsp;<br>
 
+
 </div>
 
 ***

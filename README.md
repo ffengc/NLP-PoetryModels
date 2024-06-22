@@ -1,8 +1,11 @@
 # NLP-PoetryModels
 From RNN to GRU and LSTM: A Study on the Performance of Poem Generation Models Integrating Bidirectional and Attention Techniques
 
+
 - [简体中文](./docs/README-cn.md)
 - [English](./README.md)
+
+***
 
 <div align="center">
 

@@ -8,7 +8,7 @@
 
 ## 从RNN到GRU与LSTM:综合双向及注意力技术的诗歌生成模型性能研究
 [📄[Document](https://github.com/ffengc/NLP-PoetryModels/blob/main/README.md)] &emsp; [💻[Platform](https://www.tensorflow.org)] &emsp; <br>
-[🌅[Code](https://github.com/ffengc/NLP-PoetryModels/)] &emsp; [📖[Article(即将公开)](https://github.com/ffengc/NLP-PoetryModels/docs/article.pdf)] &emsp;<br>
+[🌅[Code](https://github.com/ffengc/NLP-PoetryModels/)] &emsp; [📖[Article](https://github.com/ffengc/NLP-PoetryModels/docs/article.pdf)] &emsp;<br>
 
 </div>
 
